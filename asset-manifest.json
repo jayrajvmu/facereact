@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/facereact/static/css/main.b51960a5.css",
-    "main.js": "/facereact/static/js/main.22161f6d.js",
+    "main.js": "/facereact/static/js/main.07ffc44c.js",
     "index.html": "/facereact/index.html",
     "main.b51960a5.css.map": "/facereact/static/css/main.b51960a5.css.map",
-    "main.22161f6d.js.map": "/facereact/static/js/main.22161f6d.js.map"
+    "main.07ffc44c.js.map": "/facereact/static/js/main.07ffc44c.js.map"
   },
   "entrypoints": [
     "static/css/main.b51960a5.css",
-    "static/js/main.22161f6d.js"
+    "static/js/main.07ffc44c.js"
   ]
 }
